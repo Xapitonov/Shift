@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+   Авторское право (C) 2010 Флориан Зундерманн
+
+   Лицензировано на условиях Лицензии Apache, версия 2.0 (далее "Лицензия");
+   вы не можете использовать этот файл, кроме как в соответствии с Лицензией.
+   Вы можете получить копию Лицензии по адресу
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+   Если это не требуется по действующему законодательству или не согласовано в письменной форме, ПО
+   распространяется на условиях "КАК ЕСТЬ", БЕЗ ГАРАНТИЙ ИЛИ УСЛОВИЙ ЛЮБОГО ВИДА, явных или подразумеваемых.
+   См. Лицензию для получения конкретных разрешений и ограничений в рамках Лицензии.  
+ -->
+<resources>
+    <string name="app_name">Смена</string>
+    <string name="score">Общий счёт: %d</string>
+    <string name="lastmove">Последний ход: %d</string>
+    <string name="hscore">Счёт: %d</string>
+    <string name="easy">Легкий</string>
+    <string name="normal">Нормальный</string>
+    <string name="hard">Сложный</string>
+    <string name="highscore">Рекорд</string>
+    <string name="show_help">Помощь</string>
+    <string name="quit">Выход</string>
+    <string name="about">О видеоигре</string>
+    
+    <string-array name="helpscreen">
+    <item> </item>
+    <item> </item>    
+    	<item>Нажмите Влево, Вправо, Вверх или</item> 
+    	<item>Вниз, чтобы свободные</item>
+    	<item>блоки перемещались в этом направлении.</item>
+    	<item> </item>
+		<item>Если вы формируете группы из 3</item>
+		<item>или более блоков, они будут</item>
+		<item>удалены, давая вам больше пространства</item>
+		<item>для дальнейшего перемещения блоков.</item>
+	</string-array>
+</resources>
